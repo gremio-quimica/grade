@@ -118,7 +118,7 @@ window.courses = [
     { name: "Est Geol Camp Explora Petróleo", credits: 2, code: "IGL109", semester: 5, requirements: [25], category: 1, workload: 60},
     { name: "Geologia do Petroleo", credits: 3, code: "IGL508", semester: 5, requirements: [25], category: 1, workload: 60},
     { name: "Introdução Mecânica das Rochas", credits: 4, code: "IGL512", semester: 5, requirements: [3], category: 1, workload: 60},  
-    { name: "Comp.Hidro.de Plat.Oceanicas I", credits: 4, code: "COV250", semester: 6, requirements: [17,26,14], category: 1, workload: 75},
+    //{ name: "Comp.Hidro.de Plat.Oceanicas I", credits: 4, code: "COV250", semester: 6, requirements: [17,26,14], category: 1, workload: 75},
     { name: "Engenharia e Meio Ambiente", credits: 2, code: "EEH210", semester: 6, category: 1, workload: 60},
     { name: "Eng de Reservatorios Petrol I", credits: 4, code: "EEI863", semester: 6, category: 1, workload: 60},
     { name: "Perfuração de Poços", credits: 4, code: "EEW411", semester: 6, category: 1, workload: 75},
