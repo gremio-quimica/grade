@@ -89,7 +89,7 @@ window.courses = [
     { name: "Geologia", credits: 3, code: "IGL104", semester: 1, category: 1, workload: 90},
     { name: "Fund de Quim Org e Quim Petrol", credits: 2, code: "IQO100", semester: 1, category: 1, workload: 90},
     { name: "Cálculo I", credits: 6, code: "MAC118", semester: 1, category: 1, workload: 90},
-    { name: "Sistemas Projetivos", credits: 4, code: EEG105, semester: 2, category: 1, workload: 90},
+    { name: "Sistemas Projetivos", credits: 4, code: "EEG105", semester: 2, category: 1, workload: 90},
     { name: "Física Experimental I", credits: 1, code: "FIS111", semester: 2, category: 1, workload: 90},
     { name: "Física I", credits: 4, code: "FIT112", semester: 2, category: 1, workload: 90},
     { name: "Computação II", credits: 4, code: "ICP225", semester: 2, requirements: [2], category: 1, workload: 90},
