@@ -1,6 +1,6 @@
 # Interactive Flowchart
 
-Use it live at: https://gremio-engpet.github.io/grade
+Use it live at: https://gremio-engpet.github.io/grade/
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
