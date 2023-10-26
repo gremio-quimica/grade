@@ -106,7 +106,7 @@ window.courses = [
     { name: "Estatistica Aplicada I", credits: 5, code: "EEI541", semester: 4, requirements: [14], category: 1, workload: 75},
     { name: "Economia da Engenharia", credits: 4, code: "EEI634", semester: 4, category: 1, workload: 60},
     { name: "Termodinâmica", credits: 5, code: "EQE359", semester: 4, category: 1, workload: 75},
-    { name: "Física III", credits: 4, code: "FIM230", semester: 4, requirements: [4, 9], category: 1, workload: 60},
+    { name: "Física III", credits: 4, code: "FIM230", semester: 4, requirements: [8, 10], category: 1, workload: 60},
     { name: "Física Experimental III", credits: 1, code: "FIN231", semester: 4, requirements: [16], category: 1, workload: 30},
     { name: "Introd.Analise de Bacias Sedim", credits: 4, code: "IGL108", semester: 4, requirements: [3], category: 1, workload: 60},
     { name: "Cálculo IV", credits: 4, code: "MAC248", semester: 4, requirements: [10], category: 1, workload: 60},        
