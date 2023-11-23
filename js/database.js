@@ -82,7 +82,7 @@ window.courses = [
     { name: "Atividades Acad. Optativas", credits: 6, semester: 9, step: 1},
     { name: "Estágio Sup Especialidades", credits:8, code: "FFWU06", semester: 10},
     ],
-    [
+    [a
     { name: "Química Geral I - Q", credits: 4, code: "IQG117", semester: 1, category: 1, workload: 90}, 
     { name: "Gerexp I", credits: 4, code: "IQO112", semester: 1, category: 1, workload: 90},
     { name: "Inglês Técnico", credits: 1, code: "IQW012", semester: 1, category: 1, workload: 90},
