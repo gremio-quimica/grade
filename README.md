@@ -1,10 +1,10 @@
 # Interactive Flowchart
 
-Use it live at: https://gremio-engpet.github.io/grade/
+Use it live at: https://gremio-quimica.github.io/grade/
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
-The example portrayed here is related to the Federal University of Rio de Janeiro's Petroleum Engineering undergrad.
+The example portrayed here is related to the Federal University of Rio de Janeiro's Chemical undergrad.
 
 ## Usage
 
