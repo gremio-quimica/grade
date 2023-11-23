@@ -83,7 +83,6 @@ window.courses = [
     { name: "Estágio Sup Especialidades", credits:8, code: "FFWU06", semester: 10},
     ],
     [
-        
     { name: "Química Geral I - Q", credits: 4, code: "IQG117", semester: 1, category: 1, workload: 90}, 
     { name: "Gerexp I", credits: 4, code: "IQO112", semester: 1, category: 1, workload: 90},
     { name: "Inglês Técnico", credits: 1, code: "IQW012", semester: 1, category: 1, workload: 90},
@@ -102,7 +101,7 @@ window.courses = [
     {name: "Química Analítica Clássica I", credits: 4, code: "IQA231", semester: 3, requirements: [9,16], category: 1, workload: 90},
     {name: "Química Analít Clássica Exp I", credits: 2, code: "IQA232", semester: 3, requirements: [9,15], category: 1, workload: 90},
     {name: "Termodinâmica Clássica", credits: 3, code: "IQF231", semester: 3, requirements: [12], category: 1, workload: 90},
-    {name: "Química Inorgânica Estrutural", credits: 2, code: "IQG232", semester: 3, requirements: [9], category: 1, workload: 90},
+    {name: "Inorgânica Estrutural", credits: 2, code: "IQG232", semester: 3, requirements: [9], category: 1, workload: 90},
     {name: "Química Orgânica II", credits: 3, code: "IQO234", semester: 3, requirements: [10], category: 1, workload: 90},
     { name: "Cálculo III", credits: 4, code: "MAC238", semester: 3, requirements: [12], category: 1, workload: 60},      
     { name: "Física III", credits: 4, code: "FIM230", semester: 4, requirements: [12, 8], category: 1, workload: 60},
